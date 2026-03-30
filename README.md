@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Vincensius Damar Adyatma</h1>
+<h1 align="center">Hey there. I'm Vincensius Damar Adyatma</h1>
 
 ###
 
